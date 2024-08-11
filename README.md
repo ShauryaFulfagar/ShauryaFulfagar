@@ -1,5 +1,5 @@
 # Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShauryaFulfagar)](https://github.com/ryo-ma/github-profile-trophy)
+<!---[![trophy](https://github-profile-trophy.vercel.app/?username=ShauryaFulfagar)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 
 ## About me:
@@ -36,4 +36,4 @@ Aspiring Full-Stack and ML developer
 |----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" title="Elasticsearch" alt="Elasticsearch" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaFulfagar&layout=compact)
+<!---![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaFulfagar&layout=compact)-->
