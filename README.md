@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About me:
-Grade 10 student at the Indian school, New Delhi
+Grade 10 student at the Indian school, New Delhi  
 Aspiring Full-Stack and ML developer
 
 ### Languages
@@ -14,15 +14,15 @@ Aspiring Full-Stack and ML developer
 |----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/> |
 
+### Databases & Backend
+| Elasticsearch | Firebase | PostgreSQL | Django | Flask |
+|----------|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" title="Elasticsearch" alt="Elasticsearch" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="55" height="55"/> |
+
 ### Web Development & Frontend
 | React | HTML5 | CSS3 | Flutter | ThreeJS |
 |----------|----------|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" title="Flutter" alt="Flutter" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="ThreeJS" alt="ThreeJS" width="55" height="55"/> |
-
-### Databases & Backend
-| Elasticsearch | Firebase | PostgreSQL |
-|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" title="Elasticsearch" alt="Elasticsearch" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> |
 
 ### Data & AI
 | Matplotlib | OpenCV | Keras | Scikit-Learn | Pandas | NumPy | Jupyter |
@@ -34,6 +34,5 @@ Aspiring Full-Stack and ML developer
 |----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="55" height="55"/> |
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaFulfagar&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaFulfagar&layout=compact)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShauryaFulfagar)](https://github.com/ryo-ma/github-profile-trophy)
