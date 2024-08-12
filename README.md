@@ -36,5 +36,6 @@ Aspiring Full-Stack and ML developer
 |----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="55" height="55"/> |
 
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaFulfagar&layout=compact)
 
