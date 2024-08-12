@@ -1,6 +1,4 @@
 # Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShauryaFulfagar)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ## About me:
 Grade 10 student at the Indian school, New Delhi
@@ -38,4 +36,4 @@ Aspiring Full-Stack and ML developer
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaFulfagar&layout=compact)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShauryaFulfagar)](https://github.com/ryo-ma/github-profile-trophy)
