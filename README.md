@@ -34,6 +34,9 @@ Aspiring Full-Stack and ML developer
 |----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="55" height="55"/> |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaFulfagar&layout=compact)  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShauryaFulfagar&show_icons=true&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShauryaFulfagar)](https://github.com/ryo-ma/github-profile-trophy)
+<br></br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShauryaFulfagar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaFulfagar&layout=compact&theme=onedark)
+
+![Shaurya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShauryaFulfagar&show_icons=true&theme=onedark)
