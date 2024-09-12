@@ -39,4 +39,4 @@ Aspiring Full-Stack and ML developer
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaFulfagar&layout=compact&theme=onedark)
 
-<!--![Shaurya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShauryaFulfagar&show_icons=true&theme=onedark)--->
+![Shaurya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShauryaFulfagar&show_icons=true&theme=onedark)
