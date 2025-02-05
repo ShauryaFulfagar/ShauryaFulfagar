@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About me:
-Grade 10 student at the Indian school, New Delhi  
+15y/o student at the Indian school, New Delhi  
 Aspiring Full-Stack and ML developer
 
 ### Languages
