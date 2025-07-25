@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About me:
-15y/o student at the Indian school, New Delhi  
+15y/o student,  
 Aspiring Full-Stack and ML developer
 
 ### Languages
