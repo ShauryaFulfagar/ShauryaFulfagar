@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About me:
-15y/o student,  
+16y/o student,  
 Aspiring Full-Stack and ML developer
 
 ### Languages
